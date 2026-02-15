@@ -1,6 +1,6 @@
 # Hey, I'm Nick 👋
 
-Senior engineer with 19+ years of turning caffeine into production systems. Currently deep in AWS, Go, and TypeScript — though I've written enough JavaScript to qualify for a support group.
+Senior engineer with 23+ years of turning caffeine into production systems. Been shipping code since 2003 — did 9 years for the DoD before going private sector. Currently deep in AWS, Go, and TypeScript — though I've written enough JavaScript to qualify for a support group.
 
 US patent holder. Open source maintainer. Somehow responsible for packages that get **half a million downloads per week** and I'm still not sure how that happened.
 
