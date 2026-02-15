@@ -25,7 +25,7 @@ US patent holder. Open source maintainer. Somehow responsible for packages that 
 
 - 🧱 **[brickhouse-tech](https://github.com/brickhouse-tech)** — my tools & products org. We adopt orphaned npm packages and give them working CI.
 - 🤖 **[aws-sdk-go-v2-ifaces](https://github.com/nmccready/aws-sdk-go-v2-ifaces)** — auto-generated Go interfaces for every AWS SDK v2 service. Because mocking AWS shouldn't require a PhD.
-- 🏒 **[lax_cread](https://github.com/nmccready/lax_cread)** — lacrosse stats site, because my kids are faster than my deploy pipeline
+- 🥍 **[lax_cread](https://github.com/nmccready/lax_cread)** — lacrosse stats site, because my kids are faster than my deploy pipeline
 
 ## Philosophy
 
